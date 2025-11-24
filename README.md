@@ -1,1 +1,13 @@
 # Proyecto-digital-
+
+Integrantes del grupo
+Juan Jose Sanchez Vargas
+
+Geronimo Navia Garcia 
+
+Sebastian Menco
+
+Contenidos
+
+Podremos encontrar todo lo elaborado todo lo trabajado en clase durante la asignatura Electronica Digital 2025-2, con el fin de elaborar un proyecto en una matriz led
+

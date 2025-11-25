@@ -10,5 +10,5 @@ Sebastian Menco
 
 Contenido
 
-Podremos encontrar todo lo trabajado en clase durante la asignatura Electronica Digital 2025-2, con el fin de elaborar un proyecto en una matriz led mediante FPGA y diseñar una calculadora.
+Podremos encontrar todo lo trabajado en clase durante la asignatura Electronica Digital 2025-2. CALCULADORA.
 
